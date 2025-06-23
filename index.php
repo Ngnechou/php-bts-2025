@@ -13,7 +13,8 @@
      <a href="03datatype.php">03-constante</a><br><br>
      <a href="04numbers.php">04-nombres</a><br><br>
       <a href="05fonctions.php">05-les fonctions sur les chaines</a><br><br>
-      <a href="06conditions.php">05-les les conditions</a><br><br>
+      <a href="06conditions.php">06-les les conditions</a><br><br>
+       <a href="07arrays.php">06-les tableaux</a><br><br>
     
     <?php
     //les types de données en php

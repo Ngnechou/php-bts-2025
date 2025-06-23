@@ -6,12 +6,4 @@
     <title>cour php</title>
 </head>
 <body>
-    <h1>votre titre/h1>
-    <a href="index.php">cours-php-bts 2025</a> <br><br>
-  
-    <?php
-    //les types de données en php
-
-    ?>
-</body>
-</html>
+     <a href="index.php">cours-php-bts 2025</a> <br><br>

@@ -32,5 +32,3 @@ echo '<br>';
     echo '<br>';
     var_dump(isset($age)); 
     ?>
-</body>
-</html>
